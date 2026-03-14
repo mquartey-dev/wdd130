@@ -1,0 +1,8 @@
+3 core technologies of the web:
+- CSS
+- JavaScript
+- HTML: HyperText Markup Language defines structure and meaning of a web document
+
+- HyperText refers to the the placement of HyperText links on documents that allow
+movement from page to page.
+- Markup is a set of symbols or codes for displaying content on the internet
