@@ -1,0 +1,6 @@
+- HTML is used for structure, not to style pages
+- 2 types of tags: Semantic and Non-Semantic
+- Semantic tags have meaning built into their name
+- Non-Semantic tags are the opposite
+- Common examples: div - A container used for grouping and styling a section of a page
+                    span - A container used for styling small portions of text
