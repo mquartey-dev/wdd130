@@ -4,3 +4,5 @@
 - Non-Semantic tags are the opposite
 - Common examples: div - A container used for grouping and styling a section of a page
                     span - A container used for styling small portions of text
+
+- CSS(Cascading Style Sheets) is a rule set language that defines the style and presentation pf an HTML document
