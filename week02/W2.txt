@@ -6,3 +6,5 @@
                     span - A container used for styling small portions of text
 
 - CSS(Cascading Style Sheets) is a rule set language that defines the style and presentation pf an HTML document
+
+- Property length values are needed to provide layout and presentation control
